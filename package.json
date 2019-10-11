@@ -1,0 +1,23 @@
+{
+  "name": "es6-newproject-template",
+  "version": "1.0.0",
+  "description": "Template for starting a new javascript project that supports es6 syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitchrisadams/es6-newproject-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitchrisadams/es6-newproject-template/issues"
+  },
+  "homepage": "https://github.com/gitchrisadams/es6-newproject-template#readme",
+  "devDependencies": {
+    "webpack": "^4.41.1"
+  }
+}
