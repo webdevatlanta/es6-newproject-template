@@ -4,7 +4,8 @@
   "description": "Template for starting a new javascript project that supports es6 syntax.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/gitchrisadams/es6-newproject-template#readme",
   "devDependencies": {
-    "webpack": "^4.41.1"
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9"
   }
 }
