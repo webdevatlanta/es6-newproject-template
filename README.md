@@ -11,3 +11,12 @@ npm run dev
 ```
 Files will show up in /dist/js under file bundle.js
 
+# Building a production ready build:
+```
+npm run build
+```
+
+# Running Dev server for local development:
+```
+npm run start
+```
